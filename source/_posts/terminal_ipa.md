@@ -15,6 +15,7 @@ xcodebuild clean
 完事后，执行
 xcodebuild build
 
+<!--more-->
 
 
 注意：如果使用了pod，使用上面可能会报错，编译失败，请使用下面代码执行
