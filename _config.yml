@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://lihongli528628.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,14 +63,14 @@ pagination_dir: page
 
 visit_counter:
   on: true
-  site_visit: 海贼到访数
+  # site_visit: 海贼到访数
   page_visit: 本页阅读量
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: Simple
+theme: Anatole
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
