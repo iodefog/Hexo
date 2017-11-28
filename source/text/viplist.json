@@ -5,6 +5,10 @@
             "url": "http://api.xfsub.com/index.php?url="
         },
         {
+            "name": "线路9(旋风动漫)",
+            "url": "http://api.xfsub.com/xfsub_api/?url="
+        },
+        {
             "name": "万能接口1",
             "url": "http://65yw.2m.vc/chaojikan.php?url="
         },
@@ -16,7 +20,7 @@
             "name": "万能接口3",
             "url": "http://vip.jlsprh.com/index.php?url="
         },
-       {
+        {
             "name": "万能接口4",
             "url": "http://www.16891699.com/index.php?url="
         },
@@ -41,10 +45,6 @@
             "url": "http://www.65yw.com/chaojikan.php?url="
         },
         {
-            "name": "优酷乐视搜狐爱奇艺腾讯(优酷1080P)",
-            "url": "https://api.47ks.com/webcloud/?v="
-        },
-        {
             "name": "线路一(乐乐视频解析)",
             "url": "http://www.662820.com/xnflv/index.php?url="
         },
@@ -65,8 +65,24 @@
             "url": "http://aikan-tv.com/?url="
         },
         {
-            "name": "花园影视",
+            "name": "花园影视（可能无效）",
             "url": "http://j.zz22x.com/jx/?url="
+        },
+        {
+            "name": "花园影视1",
+            "url": "http://j.88gc.net/jx/?url="
+        },
+        {
+            "name": "花园影视2",
+            "url": "http://jx.gaolebo.com/Client/apiget.php?v="
+        },
+        {
+            "name": "金桥解析",
+            "url": "http://jqaaa.com/jx.php?url="
+        },
+        {
+            "name": "新接口1",
+            "url": "https://api.flvsp.com/?url="
         },
         {
             "name": "无",
