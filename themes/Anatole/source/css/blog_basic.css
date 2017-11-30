@@ -224,24 +224,24 @@ html {
         margin: 2rem 0; }
 
         h1 {
-          font-size: 2.1rem;
+          font-size: 1.5rem;
           line-height: 1.2em; }
 
           h2 {
-            font-size: 1.9rem;
+            font-size: 1.4rem;
             line-height: 1.2em; }
 
             h3 {
-              font-size: 1.75rem; }
+              font-size: 1.2rem; }
 
               h4 {
-                font-size: 1.3rem; }
+                font-size: 1.1rem; }
 
                 h5 {
-                  font-size: 1.3rem; }
+                  font-size: 1.1rem; }
 
                   h6 {
-                    font-size: 1.3rem; }
+                    font-size: 1.1rem; }
 
                     img {
                       max-width: 100%;
