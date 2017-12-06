@@ -36,7 +36,7 @@ description:
 FFmpeg可使用众多参数，参数内容会根据ffmpeg版本而有差异，使用前建议先参考参数及编解码器的叙述。此外，参数明细可用ffmpeg -h显示；编解码器名称等明细可用ffmpeg -formats显示。
 下列为较常使用的参数：
 
-#### 主要参数
+1. 主要参数
 
 |【参数】	|【说明】|【示例】|
 | ------ | ------ | ------ |
@@ -50,7 +50,7 @@ FFmpeg可使用众多参数，参数内容会根据ffmpeg版本而有差异，�
 | -timestamp | 设置时间戳。 | 
 | -vsync | 增减Frame使影音同步。 | 
 
-#### 视频参数
+2. 视频参数
 
 |【参数】	|【说明】|【示例】|
 | ------ | ------ | ------ |
@@ -66,7 +66,7 @@ FFmpeg可使用众多参数，参数内容会根据ffmpeg版本而有差异，�
 | -qmax | 与-qmin相反，可以与-qmin同时使用 | -qmax 30 |
 | -sameq |  使用与源视频相同的质量 |
 
-#### 声音参数
+3. 声音参数
 
 |【参数】	|【说明】|【示例】|
 | ------ | ------ | ------ |
@@ -165,6 +165,88 @@ logo：水印文件，也可以是一个流。
 output：输出流
 
 也可以用下面命令：  ffmpeg -i input  -vf 'movie=long.png[logo];[in][logo]overlay=10:10[out]' output     ，movie过滤器用来把两个流组合成一个流。它有一个输出PAD。
+
+
+### 字幕文件转换
+
+字幕文件有很多种，常见的有 .srt , .ass 文件等,下面使用FFmpeg进行相互转换。
+
+* 将.srt文件转换成.ass文件
+
+```
+ffmpeg -i subtitle.srt subtitle.ass
+```
+
+将.ass文件转换成.srt文件
+```
+ffmpeg -i subtitle.ass subtitle.srt
+```
+
+集成字幕，选择播放
+```
+ffmpeg -i input.mp4 -i subtitles.srt -c:s mov_text -c:v copy -c:a copy output.mp4
+```
+
+解析：
+-c:s 设置字幕解码器。未设置是字幕解码与输入文件相同   
+-c:v 设置视频视频编解码器，未设置时则使用与输入文件相同之编解码器 
+-c:a 设置声音编解码器，未设置时与视频相同，使用与输入文件相同之编解码器。
+
+
+* 嵌入SRT字幕到视频文件
+
+单独SRT字幕
+字幕文件为subtitle.srt
+```
+ffmpeg -i video.avi -vf subtitles=subtitle.srt out.avi
+```
+
+嵌入在MKV等容器的字幕
+将video.mkv中的字幕（默认）嵌入到out.avi文件
+```
+ffmpeg -i video.mkv -vf subtitles=video.mkv out.avi
+```
+
+将video.mkv中的字幕（第二个）嵌入到out.avi文件
+```
+ffmpeg -i video.mkv -vf subtitles=video.mkv:si=1 out.avi
+```
+
+嵌入ASS字幕到视频文件
+```
+ffmpeg -i video.avi -vf "ass=subtitle.ass" out.avi
+```
+
+不能加载fontconfig文件
+```
+Fontconfig error: Cannot load default config file
+[Parsed_ass_0 @ 0000000002bfa3e0] No usable fontconfig configuration file found,
+ using fallback.
+Fontconfig error: Cannot load default config file
+```
+出现类似错误的原因是无法加载字体配置文件。
+
+
+-------------------
+
+
+其他常用命令
+
+1.    提取视频 （Extract Video）
+```
+ffmpeg -i Life.of.Pi.has.subtitles.mkv -vcodec copy –an  videoNoAudioSubtitle.mp4
+```
+ 参考：[http://www.cnblogs.com/wainiwann/p/4128154.html](http://www.cnblogs.com/wainiwann/p/4128154.html)
+2.    提取音频（Extract Audio）
+```
+ffmpeg -i Life.of.Pi.has.subtitles.mkv -vn -acodec copy audio.ac3
+```
+ 参考：[http://stackoverflow.com/questions/9913032/ffmpeg-to-extract-audio-from-video](http://stackoverflow.com/questions/9913032/ffmpeg-to-extract-audio-from-video)
+3.    提取字幕（Extract Subtitle）
+```
+ffmpeg -i Life.of.Pi.has.subtitles.mkv-map 0:s:0 sub1.srt
+```
+参考：[http://superuser.com/questions/583393/extract-subtitle-from-video](http://superuser.com/questions/583393/extract-subtitle-from-video)
 
 
 ***********************
