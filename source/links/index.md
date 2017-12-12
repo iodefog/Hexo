@@ -4,10 +4,10 @@
 ----------------------
 
 
- 有趣的企业包地址：[https://lihongli528628.github.io/ipa/index.html](https://lihongli528628.github.io/ipa/index.html)
+ 有趣的企业包地址：[https://iOdeFog.github.io/ipa/index.html](https://iOdeFog.github.io/ipa/index.html)
 
 
- 有趣的Mac软件地址：[https://lihongli528628.github.io/dmg/index.html](https://lihongli528628.github.io/dmg/index.html)
+ 有趣的Mac软件地址：[https://iOdeFog.github.io/dmg/index.html](https://iOdeFog.github.io/dmg/index.html)
 
 
 
