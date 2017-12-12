@@ -233,6 +233,6 @@ Emojin集合表（479）：
 http://punchdrunker.github.com/iOSEmoji/table_html/vehicle.html
 
 DEMO:
-https://github.com/lihongli528628/EmojiDemo.git
+https://github.com/iodefog/EmojiDemo.git
 
 ![](http://punchdrunker.github.com/iOSEmoji/table_html/cars/cars_07_01.png)![](http://punchdrunker.github.com/iOSEmoji/table_html/cars/cars_07_02.png)![](http://punchdrunker.github.com/iOSEmoji/table_html/cars/cars_07_03.png)        UnicodeU+1F1F7 U+1F1FAU+1F1EC U+1F1E7U+1F1E9 U+1F1EA        UTF80xF0 0x9F 0x87 0xB7 0xF0 0x9F 0x87 0xBA0xF0 0x9F 0x87 0xAC 0xF0 0x9F 0x87 0xA70xF0 0x9F 0x87 0xA9 0xF0 0x9F 0x87 0xAA        UTF160xD83C 0xDDF7 0xD83C 0xDDFA0xD83C 0xDDEC 0xD83C 0xDDE70xD83C 0xDDE9 0xD83C 0xDDEA        SB UnicodeE512E510E50E
