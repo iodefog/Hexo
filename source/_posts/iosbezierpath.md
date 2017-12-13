@@ -34,7 +34,7 @@ UIBezierPath这个类在UIKit中， 是Core Graphics框架关于path的一个封
 
 首先，我们在平面内选3个不同线的点并且依次用线段连接。如下所示..
 
-![image](img/56030-48977fcfcd8cd57e.png)
+![image](/img/56030-48977fcfcd8cd57e.png)
 
 接着，我们在AB和BC线段上找出点D和点E，使得AD/AB = BE/BC。
 
@@ -52,7 +52,7 @@ UIBezierPath这个类在UIKit中， 是Core Graphics框架关于path的一个封
 
 下面是三阶四阶和五阶。
 
-![image](/img/56030-56030-f3e69b487f4e37c8.gif)
+![image](/img/56030-f3e69b487f4e37c8.gif)
 
 ![image](/img/56030-2d2fb8989e10f177.gif)
 
@@ -64,6 +64,11 @@ UIBezierPath这个类在UIKit中， 是Core Graphics框架关于path的一个封
 ![image](/img/56030-b65e3dd8196f4da5.gif)
 
 所以贝塞尔曲线的厉害之处就在这里，从1-n阶的连续函数，他都可以计算得到一条光滑曲线。
+
+提供一个比较牛x的在线查看贝塞尔曲线网址
+
+Animated Bézier Curves
+[https://www.jasondavies.com/animated-bezier/](https://www.jasondavies.com/animated-bezier/)
 
 
 # 常用设置介绍说明
