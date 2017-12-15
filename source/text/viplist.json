@@ -1,4 +1,31 @@
 {
+    "platformlist":[
+        {
+            "name":"腾讯视频",
+            "url":"https://v.qq.com/"
+        },
+        {
+            "name":"爱奇艺",
+            "url":"http://www.iqiyi.com/"
+        },
+        {
+            "name":"爱奇艺",
+            "url":"https://www.youku.com/"
+        },
+        {
+            "name":"芒果",
+            "url":"https://www.mgtv.com/"
+        },
+        {
+            "name":"乐视视频",
+            "url":"https://www.le.com/"
+        },
+        {
+            "name":"搜狐视频",
+            "url":"https://tv.sohu.com/"
+        }
+    ],
+
     "list": [
         {
             "name": "线路9(旋风动漫)",
