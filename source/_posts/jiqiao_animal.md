@@ -1,7 +1,6 @@
-title : iOS开发中的一些技巧收集
-tag : ios
-categaries: 技术
-
+title: iOS开发中的一些技巧收集
+categories: 技术
+tags: ios
 
 ---
 

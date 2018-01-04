@@ -1,10 +1,8 @@
-
 title: Cocoapods 引用自定义Framework + Swift
-categories: iOS,技术
 tags: framework, cocoapods
+categories: iOS,技术
 
-
-----------
+---
 
 自定义Framew 一个模板
 
