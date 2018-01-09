@@ -1,7 +1,8 @@
 title: Git submodule(子项目)使用
-tag: git
+tags: git
 categories: 技术
 
+----
 
 # Git submodule(子项目)使用
 
