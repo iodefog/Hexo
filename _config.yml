@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: iOdeFog
+title: iodefog
 subtitle: 好好学习，天天向上。
 description: 记录人生道路景色的，点点滴滴。
-author: iOdeFog
+author: iodefog
 language: zh-Hans
 timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://iOdeFog.github.io/
+url: https://iodefog.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -76,5 +76,5 @@ theme: Anatole
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git 
-  repo: https://github.com/iOdeFog/iOdeFog.github.io.git
+  repo: https://github.com/iodefog/iodefog.github.io.git
   branch: master

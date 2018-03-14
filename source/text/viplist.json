@@ -1,21 +1,21 @@
 {
     "platformlist":[
         {
-            "name":"腾讯视频",
-            "url":"https://v.qq.com/"
-        },
-        {
             "name":"爱奇艺",
             "url":"http://www.iqiyi.com/"
         },
         {
-            "name":"优酷",
-            "url":"https://www.youku.com/"
+            "name":"腾讯视频",
+            "url":"https://v.qq.com/"
         },
         {
             "name":"芒果",
             "url":"https://www.mgtv.com/"
         },
+        {
+            "name":"优酷",
+            "url":"https://www.youku.com/"
+        },        
         {
             "name":"乐视视频",
             "url":"https://www.le.com/"
@@ -23,6 +23,14 @@
         {
             "name":"搜狐视频",
             "url":"https://tv.sohu.com/"
+        },
+        {
+            "name":"52影院",
+            "url":"http://www.52xsba.com/"
+        },
+        {
+            "name":"4080新视觉影院",
+            "url":"http://www.yy4080.com/"
         }
     ],
 
@@ -90,7 +98,7 @@
         },
         {
             "name": "表哥解析",
-            "url": "https://jx.biaoge.tv/parse/api10/?url="
+            "url": "http://jx.biaoge.tv/index.php?url="
         },
         {
             "name":"1717ty",
@@ -140,6 +148,52 @@
         {
             "name":"vip在线ve1212",
             "url":"http://api.pu.tn/ve1212/?url="
+        },
+
+        {
+            "name":"1",
+            "url":"http://17kyun.com/api.php?url="
+        },
+         {
+            "name":"2",
+            "url":"http://www.85105052.com/admin.php?url="
+        },
+         {
+            "name":"3",
+            "url":"http://api.iy11.cn/apiget.php?url="
+        },
+         {
+            "name":"4",
+            "url":"http://jx.hanximeng.com/m3u8.php?url="
+        },
+         {
+            "name":"5",
+            "url":"http://jx.39book.com/Client/apiget.php?url="
+        },
+         {
+            "name":"6",
+            "url":"http://014670.cn/jx/ty.php?url="
+        },
+         {
+            "name":"7",
+            "url":"http://www.ibb6.com/x1/?url="
+        },
+        {
+            "name":"8",
+            "url":"http://tv.x-99.cn/api/wnapi.php?id="
+        },
+
+        {
+            "name":"9",
+            "url":"http://49.4.144.33/xfjx/1.php?url="
+        },
+        {
+            "name":"8",
+            "url":"http://7cyd.com/vip/?url="
+        },
+        {
+            "name":"8",
+            "url":"https://47ksvip.duapp.com/vip/2mm/?vid="
         },
         {
             "name": "无",
