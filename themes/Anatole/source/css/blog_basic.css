@@ -74,7 +74,7 @@ figure.highlight.html .code:after,figure.highlight.js .code:after,figure.highlig
   position: absolute!important;
   top: 0!important;
   right: 0!important;
-  color: #ccc!important;
+  color: #000!important;
   text-align: right!important;
   font-size: 0.75em!important;
   padding: 5px 10px 0!important;
