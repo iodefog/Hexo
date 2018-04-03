@@ -1,12 +1,12 @@
 {
     "platformlist":[
         {
-            "name":"爱奇艺",
-            "url":"http://www.iqiyi.com/"
-        },
-        {
             "name":"腾讯视频",
             "url":"https://v.qq.com/"
+        },
+        {
+            "name":"爱奇艺",
+            "url":"http://www.iqiyi.com/"
         },
         {
             "name":"芒果",
@@ -21,10 +21,6 @@
             "url":"https://www.le.com/"
         },
         {
-            "name":"搜狐视频",
-            "url":"https://tv.sohu.com/"
-        },
-        {
             "name":"52影院",
             "url":"http://www.52xsba.com/"
         },
@@ -37,8 +33,8 @@
     
      "list": [
         {
-            "name": "线路9(旋风动漫)",
-            "url": "http://api.xfsub.com/index.php?url="
+            "name": "无",
+            "url": ""
         },
         {
             "name": "线路9(旋风动漫)",
@@ -188,16 +184,12 @@
             "url":"http://49.4.144.33/xfjx/1.php?url="
         },
         {
-            "name":"8",
+            "name":"10",
             "url":"http://7cyd.com/vip/?url="
         },
         {
-            "name":"8",
+            "name":"11",
             "url":"https://47ksvip.duapp.com/vip/2mm/?vid="
-        },
-        {
-            "name": "无",
-            "url": ""
         }
     ]
 }
