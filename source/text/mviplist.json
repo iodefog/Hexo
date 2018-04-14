@@ -41,8 +41,8 @@
     
      "list": [
         {
-            "name": "线路9(旋风动漫)",
-            "url": "http://api.xfsub.com/index.php?url="
+            "name": "无",
+            "url": ""
         },
         {
             "name": "线路9(旋风动漫)",
@@ -192,16 +192,12 @@
             "url":"http://49.4.144.33/xfjx/1.php?url="
         },
         {
-            "name":"8",
+            "name":"10",
             "url":"http://7cyd.com/vip/?url="
         },
         {
-            "name":"8",
+            "name":"11",
             "url":"https://47ksvip.duapp.com/vip/2mm/?vid="
-        },
-        {
-            "name": "无",
-            "url": ""
         }
     ]
 }
