@@ -38,8 +38,7 @@
         }
     ],
 
-    
-     "list": [
+    "list": [
         {
             "name": "无",
             "url": ""
@@ -51,6 +50,70 @@
         {
             "name": "万能接口3",
             "url": "http://vip.jlsprh.com/index.php?url="
+        },
+        {
+            "name": "万能接口4",
+            "url": "https://api.daidaitv.com/index/?url="
+        },
+        {
+            "name": "万能接口5",
+            "url": "http://jx.vgoodapi.com/jx.php?url="
+        },
+        {
+            "name": "万能接口6",
+            "url": "http://wwwhe1.177kdy.cn/4.php?pass=1&url="
+        },
+        {
+            "name": "思古4",
+            "url": "http://www.ibb6.com/yunjx/?url="
+        },
+        {
+            "name": "思古5",
+            "url": "http://www.ibb6.com/ipsign/player.php?v="
+        },
+        {
+            "name": "思古6",
+            "url": "http://www.ibb6.com/playm3u8/?url="
+        },
+        {
+            "name":"思古7",
+            "url":"http://www.ibb6.com/x1/?url="
+        },
+        {
+            "name": "4.21-1",
+            "url": "https://api.47ks.com/webcloud/?v="
+        },
+        {
+            "name": "4.21-2",
+            "url": "http://qtv.soshane.com/ko.php?url="
+        },
+        {
+            "name": "4.21-3",
+            "url": "https://yooomm.com/index.php?url="
+        },
+        {
+            "name": "4.21-4",
+            "url": "http://www.82190555.com/index.php?url="
+        },
+        {
+            "name": "4.21-5",
+            "url": "http://jiexi.92fz.cn/player/vip.php?url="
+        },
+        {
+            "name":"4.21-6",
+            "url":"http://www.85105052.com/admin.php?url="
+        },
+        {
+            "name":"高端解析",
+            "url" :"http://jx.vgoodapi.com/jx.php?url="
+        },
+        {
+            "name":"六六视频",
+            "url":"http://qtv.soshane.com/ko.php?url="
+        },
+        {
+            "name":"爱跟影院",
+            "url":"http://2gty.com/apiurl/yun.php?url="
         },
         {
             "name": "超清接口1_0",
@@ -65,19 +128,24 @@
             "url": "http://jiexi.92fz.cn/player/vip.php?url="
         },
         {
-            "name": "万能接口5",
-            "url": "http://jx.vgoodapi.com/jx.php?url="
+            "name":"品优解析",
+            "url":"http://api.pucms.com/xnflv/?url="
+        },  
+         {
+            "name":"无名小站",
+            "url":"http://www.82190555.com/index/qqvod.php?url="
         },
+              
         {
-            "name": "线路二(百域阁视频)",
+            "name": "腾讯可用，百域阁视频",
             "url": "http://api.baiyug.cn/vip/index.php?url="
         },
         {
-            "name": "线路三(云解析)",
+            "name": "腾讯可用，线路三(云解析)",
             "url": "http://jiexi.92fz.cn/player/vip.php?url="
         },
         {
-            "name": "金桥解析",
+            "name": "腾讯可用，金桥解析",
             "url": "http://jqaaa.com/jx.php?url="
         },
         {
@@ -100,104 +168,35 @@
             "name": "线路一(乐乐视频解析)",
             "url": "http://www.662820.com/xnflv/index.php?url="
         },
-        {
-            "name": "表哥解析",
-            "url": "http://jx.biaoge.tv/index.php?url="
-        },
+        
         {
             "name":"1717ty",
             "url":"http://1717ty.duapp.com/jx/ty.php?url="
         },
-        {
-            "name":"无名小站",
-            "url":"http://www.82190555.com/index/qqvod.php?url="
-        },
-        {
-            "name":"品优解析",
-            "url":"http://api.pucms.com/xnflv/?url="
-        },
-        {
-            "name":"爱跟影院",
-            "url":"http://2gty.com/apiurl/yun.php?url="
-        },
-        
-        {
-            "name":"六六视频",
-            "url":"http://qtv.soshane.com/ko.php?url="
-        },
-        {
-            "name":"yun parse",
-            "url":"http://jx.api.163ren.com/vod.php?url="
-        },
-        {
-            "name":"高端解析",
-            "url" :"http://jx.vgoodapi.com/jx.php?url="
-        },
+       
         {
             "name":"速度牛",
             "url":"http://api.wlzhan.com/sudu/?url="
         },
         {
-            "name":"vip在线ve44",
-            "url":"http://api.pu.tn/ve44/?url="
-        },
-        {
-            "name":"vip在线ve1010",
-            "url":"http://api.pu.tn/ve1010/?url="
-        },
-        {
-            "name":"vip在线ve1111",
-            "url":"http://api.pu.tn/ve1111/?url="
-        },
-        {
-            "name":"vip在线ve1212",
-            "url":"http://api.pu.tn/ve1212/?url="
-        },
-
-        {
             "name":"1",
             "url":"http://17kyun.com/api.php?url="
         },
-         {
-            "name":"2",
-            "url":"http://www.85105052.com/admin.php?url="
-        },
-         {
-            "name":"3",
-            "url":"http://api.iy11.cn/apiget.php?url="
-        },
-         {
-            "name":"4",
-            "url":"http://jx.hanximeng.com/m3u8.php?url="
-        },
-         {
-            "name":"5",
-            "url":"http://jx.39book.com/Client/apiget.php?url="
-        },
-         {
+        {
             "name":"6",
             "url":"http://014670.cn/jx/ty.php?url="
-        },
-         {
-            "name":"7",
-            "url":"http://www.ibb6.com/x1/?url="
         },
         {
             "name":"8",
             "url":"http://tv.x-99.cn/api/wnapi.php?id="
-        },
-
-        {
-            "name":"9",
-            "url":"http://49.4.144.33/xfjx/1.php?url="
         },
         {
             "name":"10",
             "url":"http://7cyd.com/vip/?url="
         },
         {
-            "name":"11",
-            "url":"https://47ksvip.duapp.com/vip/2mm/?vid="
+            "name": "表哥解析",
+            "url": "http://jx.biaoge.tv/index.php?url="
         }
     ]
 }
