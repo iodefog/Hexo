@@ -2,7 +2,7 @@ title: Swift 学习
 
 ---
 
-1. 通知
+1.通知
 
 ```
 // 添加通知
@@ -13,7 +13,7 @@ NotificationCenter.default.removeObserver(self);
 
 ```
 
-2. selector
+2.selector
 
 ```
 // 方法1
@@ -24,7 +24,7 @@ cyanButton.addTarget(self, action: Selector("cyanButtonClick"), for: .touchUpIns
 
 ```
 
-3. 类方法
+3.类方法
 
 
 ```
@@ -36,7 +36,17 @@ cyanButton.addTarget(self, action: Selector("cyanButtonClick"), for: .touchUpIns
 BaseViewController.Test();
 ```
 
-4. 标注
+```
+// 带2个以上参数的类方法（以 _ 起始）
+override class func tableView(_ tableView:UITableView, rowHeightFor object:Any)-> CGFloat
+    {
+        return 44;
+    }
+
+
+```
+
+4.标注
 
 ```
 // OC 
@@ -48,7 +58,8 @@ BaseViewController.Test();
 
 ```
 
-5. @available
+5.@available
+
 ```
 // OC
 if(@available(iOS 11.0, *)) { }
@@ -57,3 +68,49 @@ if(@available(iOS 11.0, *)) { }
 if #available(iOS 11.0, *) {  }
 
 ```
+
+6.get 和 set 方法
+
+```
+var _name:String?
+    var name:String?{
+        get{
+            return _name;
+        }
+        set{
+//            只要外界通过.name给name赋值，就会把值给newValue
+            _name = newValue
+        }
+    }
+```
+在开发过程中不建议这样使用，首先需要定义两个属性，很麻烦。
+
+
+推荐使用这样的方式实现
+
+```
+ var gender:String?{
+   willSet{
+            //
+            NSLog("==========")
+        }
+        didSet
+        {
+            NSLog("已经改变的时候", []);
+        }
+    }
+ ```
+ 
+ ```
+ // 重写父类setter和getter， 使用 newValue 得到新值
+ override var object: Any!{
+        set {
+            super.object = newValue;
+            let item:BaseModel? = object as? BaseModel;
+            self.titleLabel?.text = item?.wtKey;
+        }
+        get {
+            return super.object;
+        }
+    }
+ ```
