@@ -38,6 +38,11 @@
         }
     ],
 
+    "default":{
+            "name": "5月-8",
+            "url": "http://api.visaok.net/?url="
+    },
+
     "list": [
         {
             "name": "原地址",
@@ -64,7 +69,7 @@
             "name": "5月-4",
             "url": "http://beaacc.com/api.php?url="
         },
-         {
+        {
             "name": "5月-8",
             "url": "http://api.visaok.net/?url="
         },
