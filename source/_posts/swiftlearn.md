@@ -114,3 +114,59 @@ var _name:String?
         }
     }
  ```
+ 
+ 7.for 循环
+ 
+ ```
+ //OC风格的 for
+ 
+ for var i = 0; i < 10; i++ {
+    println(i)
+}
+
+// Swift风格的 for
+// 遍历 0 ~ <10
+for i in 0..<10 {
+    println(i)
+}
+
+println("---")
+
+// 遍历 0 ~ 10
+for i in 0...10 {
+    println(i)
+}
+
+// 特殊写法
+for _ in 0...10 {
+    println("hello")
+}
+ 
+```
+
+
+# 字符串获取长度
+
+Swift3.2
+
+```
+let currentCharactorCount = (textView.text?.characters.count)!
+
+```
+
+Swift4.0
+
+```
+let currentCharactorCount = textView.text!.count
+```
+
+# enum
+```
+// 映射到整型
+enum Movement: Int {
+    case Left = 0
+    case Right = 1
+    case Top = 2
+    case Bottom = 3
+}
+```
