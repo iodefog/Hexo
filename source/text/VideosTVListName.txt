@@ -1,6 +1,1 @@
-GreatLiveList.txt
-PellmellLiveList.txt
-6.1LiveList.txt
-6.1.2LiveList.txt
-OnDemand.txt
-iptv.txt
+CanPlayResult.txt
