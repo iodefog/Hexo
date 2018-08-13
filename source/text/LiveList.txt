@@ -1,34 +1,23 @@
-
-CCTV1HD http://gslbserv.itv.cmvideo.cn/HDcctv1.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D49567&Contentid=8813322615956633846&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
-CCTV-1 http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D49567&Contentid=5068253659616166748&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
-台湾频道 壹新闻 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
-台湾频道 壹新闻 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
-台湾频道 壹新闻 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
-香港频道 香港卫视 http://tm.ws.live.cntv.cn/cache/84_/seg0/index.m3u8
-香港频道 亚太第一卫视 rtmp://v1.one-tv.com/live/mpegts.stream
-香港频道 RTHK31高清 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
-战旗影院19 http://dlhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
-战旗-韩服 血战123 http://dlhls.cdn.zhanqi.tv/zqlive/76068_G5jGr.m3u8
-大陆|炫动卡通 http://web-play.pptv.com/web-m3u8-300455.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
-大陆|LeTV黄飞鸿之西域 http://g3.letv.cn/14/44/102/2141722611.0.flv
-战旗|战旗影视 11 http://dlhls.cdn.zhanqi.tv/zqlive/115384_jC7nR.m3u8
-战旗|战旗影视 16 http://dlhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
-战旗|战旗影视 19 http://dlhls.cdn.zhanqi.tv/zqlive/33050_DEM7z.m3u8
-战旗|月山习 http://dlhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ.m3u8
-战旗|伟哥TV(电影) http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8
 高清海贼王 http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
-蜡笔小新 http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
-因为爱情有奇迹 http://live.gslb.letv.com/gslb?stream_id=lb_ywaqyqj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=letv&expect=1
+CCTV1 http://183.207.249.7/PLTV/3/224/3221225530/index.m3u8
+CCTV2 http://183.207.249.7/PLTV/2/224/3221226007/index.m3u8
+CCTV3 http://183.207.249.7/PLTV/3/224/3221225588/index.m3u8
+cctv5+HD http://183.207.249.7/PLTV/3/224/3221225604/index.m3u8
+CCTV-6HD http://183.207.249.15/PLTV/3/224/3221225548/index.m3u8
+CCTV-7 http://183.207.249.15/PLTV/3/224/3221225546/index.m3u8
+cctv8 http://183.207.249.7/PLTV/4/224/3221225866/index.m3u8
+cctv9 http://183.207.249.7/PLTV/4/224/3221225868/index.m3u8
+CCTV10 http://183.207.249.7/PLTV/2/224/3221226013/index.m3u8
+CCTV11 http://183.207.249.7/PLTV/2/224/3221226015/index.m3u8
+cctv12 http://183.207.249.7/PLTV/4/224/3221225803/index.m3u8
+CCTV13新闻 http://183.207.249.7/PLTV/2/224/3221226021/index.m3u8
+CCTV15音乐 http://183.207.249.7/PLTV/2/224/3221226025/index.m3u8
+cctv少儿 http://183.207.249.7/PLTV/4/224/3221225813/index.m3u8
 北京卫视HD http://183.207.249.7/PLTV/2/224/3221225902/index.m3u8
 东方卫视HD http://183.207.249.7/PLTV/2/224/3221225904/index.m3u8
 江苏卫视HD http://183.207.249.7/PLTV/2/224/3221225958/index.m3u8
 湖北卫视HD http://183.207.249.7/PLTV/2/224/3221226001/index.m3u8
 山东卫视HD http://183.207.249.7/PLTV/2/224/3221226003/index.m3u8
-CCTV2 http://183.207.249.7/PLTV/2/224/3221226007/index.m3u8
-CCTV10 http://183.207.249.7/PLTV/2/224/3221226013/index.m3u8
-CCTV11 http://183.207.249.7/PLTV/2/224/3221226015/index.m3u8
-CCTV13新闻 http://183.207.249.7/PLTV/2/224/3221226021/index.m3u8
-CCTV15音乐 http://183.207.249.7/PLTV/2/224/3221226025/index.m3u8
 都市剧场 http://183.207.249.7/PLTV/2/224/3221226029/index.m3u8
 欢笑剧场 http://183.207.249.7/PLTV/2/224/3221226031/index.m3u8
 游戏风云 http://183.207.249.7/PLTV/2/224/3221226041/index.m3u8
@@ -51,7 +40,6 @@ CCTV15音乐 http://183.207.249.7/PLTV/2/224/3221226025/index.m3u8
 上海纪实 http://183.207.249.7/PLTV/2/224/3221226105/index.m3u8
 新疆卫视 http://183.207.249.7/PLTV/3/224/3221225523/index.m3u8
 古装剧场HD http://183.207.249.7/PLTV/3/224/3221225527/index.m3u8
-CCTV1 http://183.207.249.7/PLTV/3/224/3221225530/index.m3u8
 军旅剧场HD http://183.207.249.7/PLTV/3/224/3221225531/index.m3u8
 军事评论 http://183.207.249.7/PLTV/3/224/3221225533/index.m3u8
 明星大片 http://183.207.249.7/PLTV/3/224/3221225535/index.m3u8
@@ -76,11 +64,9 @@ CCTV15音乐 http://183.207.249.7/PLTV/3/224/3221225568/index.m3u8
 北京卫视 http://183.207.249.7/PLTV/3/224/3221225574/index.m3u8
 青海卫视 http://183.207.249.7/PLTV/3/224/3221225580/index.m3u8
 山东卫视 http://183.207.249.7/PLTV/3/224/3221225586/index.m3u8
-CCTV3 http://183.207.249.7/PLTV/3/224/3221225588/index.m3u8
 甘肃卫视 http://183.207.249.7/PLTV/3/224/3221225590/index.m3u8
 东南卫视HD http://183.207.249.7/PLTV/3/224/3221225598/index.m3u8
 河北卫视 http://183.207.249.7/PLTV/3/224/3221225602/index.m3u8
-cctv5+HD http://183.207.249.7/PLTV/3/224/3221225604/index.m3u8
 SDETV http://183.207.249.7/PLTV/3/224/3221225614/index.m3u8
 CETV1 http://183.207.249.7/PLTV/3/224/3221225622/index.m3u8
 陕西卫视 http://183.207.249.7/PLTV/3/224/3221225626/index.m3u8
@@ -91,11 +77,9 @@ CETV1 http://183.207.249.7/PLTV/3/224/3221225622/index.m3u8
 22 http://183.207.249.7/PLTV/3/224/3221226322/index.m3u8
 93 http://183.207.249.7/PLTV/3/224/3221226593/index.m3u8
 青海卫视 http://183.207.249.7/PLTV/4/224/3221225783/index.m3u8
-cctv12 http://183.207.249.7/PLTV/4/224/3221225803/index.m3u8
 山东卫视 http://183.207.249.7/PLTV/4/224/3221225804/index.m3u8
 旅游卫视 http://183.207.249.7/PLTV/4/224/3221225810/index.m3u8
 重庆卫视 http://183.207.249.7/PLTV/4/224/3221225812/index.m3u8
-cctv少儿 http://183.207.249.7/PLTV/4/224/3221225813/index.m3u8
 四川卫视 http://183.207.249.7/PLTV/4/224/3221225814/index.m3u8
 河南卫视 http://183.207.249.7/PLTV/4/224/3221225815/index.m3u8
 云南卫视 http://183.207.249.7/PLTV/4/224/3221225838/index.m3u8
@@ -104,8 +88,7 @@ cctv少儿 http://183.207.249.7/PLTV/4/224/3221225813/index.m3u8
 CETV2 http://183.207.249.7/PLTV/4/224/3221225850/index.m3u8
 cctv1 http://183.207.249.7/PLTV/4/224/3221225852/index.m3u8
 东方卫视 http://183.207.249.7/PLTV/4/224/3221225856/index.m3u8
-cctv8 http://183.207.249.7/PLTV/4/224/3221225866/index.m3u8
-cctv9 http://183.207.249.7/PLTV/4/224/3221225868/index.m3u8
+
 湖北卫视 http://183.207.249.7/PLTV/4/224/3221225877/index.m3u8
 cctv2 http://183.207.249.7/PLTV/4/224/3221225881/index.m3u8
 吉林卫视 http://183.207.249.7/PLTV/4/224/3221225883/index.m3u8
@@ -140,7 +123,6 @@ NewTV惊悚悬疑HD http://183.207.249.15/PLTV/3/224/3221225561/index.m3u8
 战旗影院16  http://dlhls.cdn.zhanqi.tv/zqlive/45338_MRc2N.m3u8
 战旗影院17  http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
 战旗猪猪相声 http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
-日本无码7 http://data1.cache.directory/media/videos/iphone/3488.mp4
 社会经济HD http://livetv.2500city.com/live/sbs2hd/index.m3u8
 文化生活HD http://livetv.2500city.com/live/sbs3hd/index.m3u8
 生活资讯HD http://livetv.2500city.com/live/sbs5hd/index.m3u8
@@ -151,12 +133,7 @@ Knews24新闻 http://hls.live.kksmg.com/live/live24h/playlist.m3u8
 凤凰卫视 rtmp://live.hkstv.hk.lxdns.com:1935/live/hks
 耀才财经台 rtmp://202.69.69.180:443/webcast/bshdlive-mobile
 网络放映厅24 http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
-极乱家族03 http://69.46.75.107/files/videos/1410962219b8929.flv
-极乱家族05 http://69.46.75.107/files/videos/141344498070660.flv
-HD欧美34 http://content2.sexforsure.com/2013/07/02/6/Video.mp4
-HD欧美35 http://content2.sexforsure.com/2013/07/02/7/Video.mp4
-CCTV-6HD http://183.207.249.15/PLTV/3/224/3221225548/index.m3u8
-CCTV-7 http://183.207.249.15/PLTV/3/224/3221225546/index.m3u8
+
 CCTV-11 http://183.207.249.15/PLTV/3/224/3221225552/index.m3u8
 CCTV-13 http://web-play.pptv.com/web-m3u8-300215.m3u8?type=ipad
 厦门卫视 http://tm.ws.live.cntv.cn/cache/524_/seg0/index.m3u8
@@ -171,6 +148,26 @@ HD欧美38 http://content2.sexforsure.com/2013/07/02/10/Video.mp4
 四川卫视 http://web-play.pptv.com/web-m3u8-300177.m3u8?type=mpptv&playback=0&kk=dc586f9805af07e1fe0314df9f5b2e83-d855-56985aa8&fwc=0&complete=1&o=m.pptv.com&rcc_id=m.pptv.com&_QUICKTIME_=1
 第一体育1 http://web-play.pptv.com/web-m3u8-300219.m3u8?type=mpptv&playback=0&kk=dc586f9805af07e1fe0314df9f5b2e83-d855-56985aa8&fwc=0&complete=1&o=m.pptv.com&rcc_id=m.pptv.com&_QUICKTIME_=1
 第一体育2 http://web-play.pptv.com/web-m3u8-300222.m3u8?type=mpptv&playback=0&kk=dc586f9805af07e1fe0314df9f5b2e83-d855-56985aa8&fwc=0&complete=1&o=m.pptv.com&rcc_id=m.pptv.com&_QUICKTIME_=1
+CCTV1HD http://gslbserv.itv.cmvideo.cn/HDcctv1.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D49567&Contentid=8813322615956633846&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+CCTV-1 http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D49567&Contentid=5068253659616166748&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+台湾频道 壹新闻 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+台湾频道 壹新闻 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
+台湾频道 壹新闻 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
+香港频道 香港卫视 http://tm.ws.live.cntv.cn/cache/84_/seg0/index.m3u8
+香港频道 亚太第一卫视 rtmp://v1.one-tv.com/live/mpegts.stream
+香港频道 RTHK31高清 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
+战旗影院19 http://dlhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
+战旗-韩服 血战123 http://dlhls.cdn.zhanqi.tv/zqlive/76068_G5jGr.m3u8
+大陆|炫动卡通 http://web-play.pptv.com/web-m3u8-300455.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+大陆|LeTV黄飞鸿之西域 http://g3.letv.cn/14/44/102/2141722611.0.flv
+战旗|战旗影视 11 http://dlhls.cdn.zhanqi.tv/zqlive/115384_jC7nR.m3u8
+战旗|战旗影视 16 http://dlhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
+战旗|战旗影视 19 http://dlhls.cdn.zhanqi.tv/zqlive/33050_DEM7z.m3u8
+战旗|月山习 http://dlhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ.m3u8
+战旗|伟哥TV(电影) http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8
+高清海贼王 http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
+蜡笔小新 http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
+因为爱情有奇迹 http://live.gslb.letv.com/gslb?stream_id=lb_ywaqyqj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=letv&expect=1
 4K超清2 http://live.gslb.letv.com/gslb?stream_id=lb_hk_4Kmovie_8000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
 韩11videosz http://galsflv.videosz.com//cum-filled-milfs_3/videosz-cum-filled-milfs-32.flv
 9videosz http://galsflv.videosz.com//mom-and-the-pop_4/videosz-mom-and-the-pop-42.flv
@@ -335,7 +332,6 @@ VIP电影-公路美人 http://chyd-wsvod.wasu.tv/data13/ott/344/2015-05/28/14327
 VIP电影-博物馆奇妙夜3 http://chyd-wsvod.wasu.tv/data12/ott/344/2015-03/05/1425521511475_343177/playlist.m3u8
 VIP电影-涉足荒野 http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/01/1433146056644_381163/playlist.m3u8
 猪猪相声 http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
-高清海贼王 http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
 战旗电影19 http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
 战旗电影62 http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
 【火影忍者】 http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
