@@ -23,7 +23,13 @@
         {
             "name":"乐视视频",
             "url":"https://www.le.com/"
-        },
+        }
+        ,
+        {
+            "name":"电影天堂",
+            "url":"http://www.btbtdy.net/"
+        }
+        ,
         {
             "name":"52影院",
             "url":"http://www.52xsba.com/"
@@ -31,10 +37,6 @@
         {
             "name":"4080新视觉影院",
             "url":"http://www.yy4080.com/"
-        },
-        {
-            "name":"电影天堂",
-            "url":"http://www.btbtdy.net/"
         }
     ],
 
@@ -42,10 +44,6 @@
              {
              "name": "原地址",
              "url": ""
-             },
-             {
-             "name": "万能接口5",
-             "url": "http://jx.vgoodapi.com/jx.php?url="
              },
              {
              "name": "9月-1",
@@ -62,6 +60,10 @@
              {
              "name": "9月-4",
              "url": "http://jx.du2.cc/?url="
+             },
+             {
+             "name": "万能接口5",
+             "url": "http://jx.vgoodapi.com/jx.php?url="
              },
              {
              "name": "5月-8",
