@@ -54,10 +54,6 @@
              "url": ""
              },
              {
-             "name": "万能接口5",
-             "url": "http://jx.vgoodapi.com/jx.php?url="
-             },
-             {
              "name": "9月-1",
              "url": "http://api.ledboke.com/?url="
              },
@@ -72,6 +68,10 @@
              {
              "name": "9月-4",
              "url": "http://jx.du2.cc/?url="
+             },
+             {
+             "name": "万能接口5",
+             "url": "http://jx.vgoodapi.com/jx.php?url="
              },
              {
              "name": "5月-8",
