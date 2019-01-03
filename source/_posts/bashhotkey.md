@@ -66,3 +66,5 @@ _友情提示_：
 
 ^S、^Q、^C、^Z 是由终端设备处理的，可用 stty 命令设置。
 
+参考:
+[https://linuxtoy.org/archives/bash-shortcuts.html](https://linuxtoy.org/archives/bash-shortcuts.html)
