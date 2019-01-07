@@ -1,4 +1,9 @@
 {
+	 "new_version_info":
+	 {
+        "latest_version":"1.2",
+        "needLimit":"0"
+     },
     "platformlist":[
         {
             "name":"爱奇艺",
