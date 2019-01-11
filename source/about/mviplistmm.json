@@ -54,6 +54,10 @@
             "url": "http://jx.vgoodapi.com/jx.php?url="
         },
         {
+            "name":"高端解析",
+            "url" :"http://jx.vgoodapi.com/jx.php?url="
+        },
+        {
             "name":"无名小站",
             "url":"http://www.82190555.com/index/qqvod.php?url="
         },
@@ -148,10 +152,7 @@
         
         
         
-        {
-            "name":"高端解析",
-            "url" :"http://jx.vgoodapi.com/jx.php?url="
-        },
+        
         {
             "name": "腾讯可用，线路三(云解析)",
             "url": "http://jiexi.92fz.cn/player/vip.php?url="

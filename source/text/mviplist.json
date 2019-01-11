@@ -1,15 +1,23 @@
 {
-    "new_version_info":{
-    "latest_version":"1.2",
-    "update_message":"增加部分广告拦截"
+     "new_version_info":
+     {
+        "latest_version":"1.5",
+        "updateMessage": "",
+        "update": "0",
+        "needLimit":"0"
+     },
+     "i_new_version_info":
+     {
+        "i_latest_version":"1.5",
+        "i_updateMessage": "",
+        "i_update": "0",
+        "i_needLimit":"0"
      },
     "platformlist":[
-        {
-            "name":"爱奇艺",
-            "url":"http://www.iqiyi.com/"
-        }
+       
     ],
-
-    "list": 
-    []
+    
+    "list": [
+        
+    ]
 }
