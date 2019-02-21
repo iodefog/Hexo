@@ -1,53 +1,53 @@
 {
-    "platformlist":[
-        {
-            "name":"爱奇艺",
-            "icon":"爱奇艺",
-            "url":"http://www.iqiyi.com/"
-        },
-        {
-            "name":"腾讯视频",
-            "icon":"腾讯",
-            "url":"https://v.qq.com/"
-        },
-        {
-            "name":"芒果",
-            "icon":"芒果",
-            "url":"https://www.mgtv.com/"
-        },
-        {
-            "name":"优酷",
-            "icon":"优酷",
-            "url":"https://www.youku.com/"
-        },
-        {
-            "name":"搜狐视频",
-            "icon":"搜狐",
-            "url":"https://tv.sohu.com/"
-        },        
-        {
-            "name":"乐视视频",
-            "icon":"乐视",
-            "url":"https://www.le.com/"
-        }
-        ,
-        {
-            "name":"电影天堂",
-            "icon":"电影天堂",
-            "url":"http://www.btbtdy.net/"
-        }
-        ,
-        {
-            "name":"52影院",
-            "icon":"52",
-            "url":"http://www.52xsba.com/"
-        },
-        {
-            "name":"新视觉影院",
-            "icon":"4080",
-            "url":"http://www.yy4080.com/"
-        }
-    ],
+    "platformlist": [{
+        "name": "爱奇艺",
+        "icon": "爱奇艺",
+        "url": "http://www.iqiyi.com/"
+    }, {
+        "name": "腾讯视频",
+        "icon": "腾讯",
+        "url": "https://v.qq.com/"
+    }, {
+        "name": "芒果",
+        "icon": "芒果",
+        "url": "https://www.mgtv.com/"
+    }, {
+        "name": "优酷",
+        "icon": "优酷",
+        "url": "https://www.youku.com/"
+    }, {
+        "name": "搜狐视频",
+        "icon": "搜狐",
+        "url": "https://tv.sohu.com/"
+    }, {
+        "name": "乐视视频",
+        "icon": "乐视",
+        "url": "https://www.le.com/"
+    }, {
+        "name": "星空影院",
+        "icon": "",
+        "url": "http://www.52xkyy.com/"
+    }, {
+        "name": "电影天堂",
+        "icon": "电影天堂",
+        "url": "http://www.btbtdy.net/"
+    }, {
+        "name": "52影院",
+        "icon": "52",
+        "url": "http://www.52xsba.com/"
+    }, {
+        "name": "新视觉影院",
+        "icon": "4080",
+        "url": "http://www.yy4080.com/"
+    }, {
+        "name": "CCTV直播",
+        "icon": "",
+        "url": "http://tv.cctv.com/live/"
+    }, {
+        "name": "易视直播",
+        "icon": "",
+        "url": "http://www.cietv.com/zhibo/"
+    }],
 
     "list": [
         {
