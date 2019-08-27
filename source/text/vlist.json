@@ -24,47 +24,28 @@
         "icon": "乐视",
         "url": "https://www.le.com/"
     }, {
-        "name": "星空影院",
-        "icon": "",
-        "url": "http://www.52xkyy.com/"
-    }, {
         "name": "电影天堂",
         "icon": "电影天堂",
         "url": "http://www.btbtdy.net/"
     }, {
-        "name": "52影院",
-        "icon": "52",
-        "url": "http://www.52xsba.com/"
-    }, {
         "name": "新视觉影院",
         "icon": "4080",
-        "url": "http://www.yy4080.com/"
+        "url": "http://www.yy3080.com/vod-type-id-1-pg-1.html/"
+    }, {
+        "name": "达达兔",
+        "icon": "4080",
+        "url": "https://www.dadatu.co/dianying/"
     }, {
         "name": "CCTV直播",
         "icon": "",
-        "url": "http://tv.cctv.com/live/"
-    }, {
-        "name": "易视直播",
-        "icon": "",
-        "url": "http://www.cietv.com/zhibo/"
-    }],
+        "url": "http://tv.cctv.com/live/cctv5/"
+    }
+    ],
 
     "list": [
         {
             "name": "原地址-（提示：本软件免费无广告,不要花钱购买）",
             "url": ""
-        },
-        {
-            "name": "超清接口2",
-            "url": "http://jiexi.92fz.cn/player/vip.php?url="
-        },
-        {
-            "name": "线路五",
-            "url": "http://aikan-tv.com/?url="
-        },
-        {
-            "name": "表哥解析",
-            "url": "http://jx.biaoge.tv/index.php?url="
         },
         {
             "name": "5月-21",
@@ -73,10 +54,6 @@
         {
             "name": "9月-2",
             "url": "http://jqaaa.com/jx.php?url="
-        },
-        {
-            "name": "5月-2",
-            "url": "http://jiexi.92fz.cn/player/vip.php?url="
         },
         {
             "name": "5月-4",
@@ -91,20 +68,12 @@
             "url":"http://www.85105052.com/admin.php?url="
         },
         {
-            "name": "5月-19",
-            "url": "http://yun.baiyug.cn/vip/?url="
-        },
-        {
             "name": "5月-23",
             "url": "http://api.baiyug.cn/vip/index.php?url="
         },
         {
             "name": "4.21-3-慢",
             "url": "https://yooomm.com/index.php?url="
-        },
-        {
-            "name": "5月-7",
-            "url": "http://www.aktv.men/?url="
         },
         {
             "name": "5月-24",
@@ -115,10 +84,6 @@
             "url":"http://17kyun.com/api.php?url="
         },
         {
-            "name":"8",
-            "url":"http://tv.x-99.cn/api/wnapi.php?id="
-        },
-        {
             "name":"品优解析-可播但广告",
             "url":"http://api.pucms.com/xnflv/?url="
         },
@@ -126,32 +91,9 @@
             "name": "5月-1",
             "url": "http://www.82190555.com/index/qqvod.php?url="
         },
-        
-        {
-            "name": "5月-3",
-            "url": "http://api.wlzhan.com/sudu/?url="
-        },
-        {
-            "name": "5月-22",
-            "url": "http://www.82190555.com/index/qqvod.php?url="
-        },
-        
-        
-        {
-            "name":"高端解析",
-            "url" :"http://jx.vgoodapi.com/jx.php?url="
-        },
-        {
-            "name": "腾讯可用，线路三(云解析)",
-            "url": "http://jiexi.92fz.cn/player/vip.php?url="
-        },
         {
             "name": "腾讯可用，金桥解析",
             "url": "http://jqaaa.com/jx.php?url="
-        },
-        {
-            "name": "线路四",
-            "url": "http://api.nepian.com/ckparse/?url="
         },
         {
             "name":"速度牛",
@@ -162,10 +104,25 @@
             "url": "http://wwwhe1.177kdy.cn/4.php?pass=1&url="
         },
         {
+            "name": "花园影视（可能无效）",
+            "url": "http://j.zz22x.com/jx/?url="
+        },
+        {
+            "name": "9月-1",
+            "url": "http://api.ledboke.com/?url="
+        },
+        
+        
+        {
+            "name": "-----分割线（以下接口可能无效----",
+            "url": "http://api.ledboke.com/?url="
+        },
+        
+        
+        {
             "name": "4.21-5",
             "url": "http://jiexi.92fz.cn/player/vip.php?url="
         },
-        
         {
             "name": "万能接口3---",
             "url": "http://vip.jlsprh.com/index.php?url="
@@ -174,14 +131,6 @@
         {
             "name":"6",
             "url":"http://014670.cn/jx/ty.php?url="
-        },
-        {
-            "name": "花园影视（可能无效）",
-            "url": "http://j.zz22x.com/jx/?url="
-        },
-        {
-            "name": "9月-1",
-            "url": "http://api.ledboke.com/?url="
         },
         {
             "name":"10",
@@ -195,10 +144,6 @@
             "name": "5月-26",
             "url": "http://v.2gty.com/apiurl/yun.php?url="
         },
-        
-        
-        
-        
         
         {
             "name": "百域阁视频",
@@ -314,6 +259,54 @@
         {
             "name": "5月-12",
             "url": "http://api.baiyug.vip/index.php?url="
-        }
+        },
+        {
+            "name": "超清接口2",
+            "url": "http://jiexi.92fz.cn/player/vip.php?url="
+        },
+        {
+            "name": "线路五",
+            "url": "http://aikan-tv.com/?url="
+        },
+        {
+            "name": "表哥解析",
+            "url": "http://jx.biaoge.tv/index.php?url="
+        },
+        {
+            "name": "5月-2",
+            "url": "http://jiexi.92fz.cn/player/vip.php?url="
+        },
+        {
+            "name": "5月-19",
+            "url": "http://yun.baiyug.cn/vip/?url="
+        },
+        {
+            "name": "5月-22",
+            "url": "http://www.82190555.com/index/qqvod.php?url="
+        },
+        {
+            "name": "5月-7",
+            "url": "http://www.aktv.men/?url="
+        },
+        {
+            "name":"8",
+            "url":"http://tv.x-99.cn/api/wnapi.php?id="
+        },
+        {
+            "name": "5月-3",
+            "url": "http://api.wlzhan.com/sudu/?url="
+        },
+        {
+            "name":"高端解析",
+            "url" :"http://jx.vgoodapi.com/jx.php?url="
+        },
+        {
+            "name": "腾讯可用，线路三(云解析)",
+            "url": "http://jiexi.92fz.cn/player/vip.php?url="
+        },
+        {
+            "name": "线路四",
+            "url": "http://api.nepian.com/ckparse/?url="
+        },
     ]
 }
