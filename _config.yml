@@ -76,5 +76,5 @@ theme: Anatole
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git 
-  repo: https://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@github.com/iodefog/iodefog.github.io
+  repo: https://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@github.com/iodefog/iodefog.github.io
   branch: master
