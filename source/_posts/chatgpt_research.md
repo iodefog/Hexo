@@ -8,12 +8,13 @@ description:
 
 最近ChatGPT越来越火，人工智能有些惊艳了。比如ChatGPT招聘上了头条，相关概念股大涨，以及“宅男”网站GitHub热度一直不减。
 1. 招聘方面直接上头条。
-2. 股票概念股大涨
-3. github上热度不减
+<img src="/img/chat/chat1.png" width="400" />
 
-![](../img/chat/chat1.png)
-![](../img/chat/chat2.png)
-![](../img/chat/chat3.png)
+2. 股票概念股大涨
+<img src="/img/chat/chat2.png" width="300" />
+
+3. github上热度不减
+<img src="/img/chat/chat3.png" width="500" />
 
 我在想它能帮我做些什么？
 
@@ -27,14 +28,15 @@ description:
 
 **比如“好好学习，天天向上”翻译成应用**
 
-![](../img/chat/chat4.png)
+<img src="/img/chat/chat4.png" width="400" />
+
 
 **让ChatGPT换个说法，会给出2种翻译方式**
 
-![](../img/chat/chat5.png)
+<img src="/img/chat/chat5.png" width="400" />
 
 **对比Google翻译**
-![](../img/chat/chat6.png)
+<img src="/img/chat/chat6.png" width="400" />
 
 # 二、写大纲
 
@@ -116,17 +118,19 @@ IV. 展望未来
 
 ## 1. 解释正则表达式
 示例“**正则“(^1(3|4|5|6|7|8|9)[0-9]{9}$)|(^0060[0-9]{9}$)**”
-![](../img/chat/chat7.png)
-![](../img/chat/chat8.png)
+<img src="/img/chat/chat7.png" width="400" />
+</br>
+<img src="/img/chat/chat8.png" width="400" />
 
 ## 2. 找Bug
 示例**数组越界**
-![](../img/chat/chat9.png)
-![](../img/chat/chat10.png)
+<img src="/img/chat/chat9.png" width="400" />
+</br>
+<img src="/img/chat/chat10.png" width="400" />
 
 ## 3. 写Code
 **写一个获取IP地址的Ruby脚本**
-![](../img/chat/chat11.png)
+<img src="/img/chat/chat11.png" width="400" />
 
 code
 
@@ -144,7 +148,7 @@ puts get_local_ip
 
 
 **用JS写一个判断是否为回文的代码**
-![](../img/chat/chat12.png)
+<img src="/img/chat/chat12.png" width="400" />
 
 代码块
 
@@ -165,15 +169,15 @@ console.log(isPalindrome("hello")); // false
 ## 1. 给出的代码存在问题
 
 比如找到了格式上的错误，但给出的建议也是存在问题的（也许是不支持查找多重错误）。
-![](../img/chat/chat13.png)
+<img src="/img/chat/chat13.png" width="400" />
 
 
 ## 2. 不支持照片
-![](../img/chat/chat14.png)
+<img src="/img/chat/chat14.png" width="400" />
 
 
 ## 三、不支持中国
-![](../img/chat/chat15.png)
+<img src="/img/chat/chat15.png" width="400" />
 
 
 参考：
